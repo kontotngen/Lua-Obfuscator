@@ -1,1 +1,1 @@
-g++ -o obfus obfuscator.cpp
+g++ -o obfus Lua Obfuscator/obfuscator.cpp
